@@ -4,3 +4,4 @@ streamlit_chat
 openai
 chromadb
 tiktoken
+docx2txt
