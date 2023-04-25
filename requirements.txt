@@ -6,3 +6,4 @@ chromadb
 tiktoken
 docx2txt
 pypdf
+youtube-transcript-api
